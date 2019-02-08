@@ -1,4 +1,4 @@
-# Gastby Starter Ghost
+# Gastby Cloud Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
 
@@ -15,7 +15,7 @@ A starter template to build lightning fast websites with [Ghost](https://ghost.o
 
 ```bash
 # With Gatsby CLI
-gatsby new gatsby-cloud-ghost https://github.com/TryGhost/gatsby-cloud-ghost.git
+gatsby new gatsby-cloud-ghost https://github.com/aomcloudenterprise/gatsby-cloud-ghost.git
 ```
 
 ```bash
