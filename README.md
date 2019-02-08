@@ -15,13 +15,13 @@ A starter template to build lightning fast websites with [Ghost](https://ghost.o
 
 ```bash
 # With Gatsby CLI
-gatsby new gatsby-starter-ghost https://github.com/TryGhost/gatsby-starter-ghost.git
+gatsby new gatsby-cloud-ghost https://github.com/TryGhost/gatsby-cloud-ghost.git
 ```
 
 ```bash
 # From Source
-git clone git@github.com:TryGhost/gatsby-starter-ghost.git
-cd gatsby-starter-ghost
+git clone git@github.com:TryGhost/gatsby-cloud-ghost.git
+cd gatsby-cloud-ghost
 ```
 
 Then install dependencies
