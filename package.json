@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-ghost",
+  "name": "gatsby-cloud-ghost",
   "description": "A starter template to build lightning fast websites with Ghost and Gatsby",
   "version": "1.0.0",
   "license": "MIT",
@@ -7,13 +7,13 @@
   "homepage": "https://www.aomcloudenterprise.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aomcloudenterprise/gatsby-starter-ghost.git"
+    "url": "git+https://github.com/aomcloudenterprise/gatsby-cloud-ghost.git"
   },
   "engines": {
     "node": ">= 8.9.0"
   },
   "bugs": {
-    "url": "https://github.com/aomcloudenterprise/gatsby-starter-ghost/issues"
+    "url": "https://github.com/aomcloudenterprise/gatsby-cloud-ghost/issues"
   },
   "keywords": [
     "gatsby",
